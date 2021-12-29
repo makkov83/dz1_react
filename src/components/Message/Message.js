@@ -3,3 +3,4 @@ export const Message = (props) => {
     return
     <message style={{ backgroundColor: "red", padding: 20 }}>{props.title}</message>;
 };
+//*
